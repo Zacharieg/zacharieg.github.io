@@ -2,7 +2,6 @@ import menu from './js/menu.js';
 import parallax from './js/parallax.js';
 import formes from './js/formes3D.js';
 import i18n from '/js/i18n.js';
-import 'remixicon/fonts/remixicon.css';
 import sal from 'sal.js'
 
 i18n();
