@@ -64,7 +64,7 @@ i18next.init({
         "La Nantarena est une LAN (compétition de jeux vidéo) organisé deux fois l'année." : "",
         "J'ai fait partie des pôles Web (developpement du site web recevant les inscription des joueurs) ainsi que du pôle Design (création de l'affiche ainsi que des différents visuels de la LAN)." : "I was part of the Web pole (development of the website receiving the registration of the players) as well as the Design pole (creation of the poster as well as the various visuals of the LAN).",
         "Ce site" : "This Website",
-        "J'ai designé, puis implémenté ce site avec NodeJs, express et le template engine Nunjucks. Il est hébergé sur le PaaS Heroku." : "I designed and implemented this site with NodeJs, express and the Nunjucks template engine. It is hosted on the PaaS Heroku.",
+        "J'ai designé, puis implémenté ce site avec NodeJs, express et le template engine Nunjucks. Il est hébergé sur GitHub Pages." : "I designed and implemented this site with NodeJs, express and the Nunjucks template engine. It is hosted on GitHub Pages.",
         "Ce site est la deuxième version de mon site personnel, j'ai effectué un redesign complet et ajouté de nombreuses effets visuels." : "This site is the second version of my personal site, I made a complete redesign and added many visual effects.",
         "Jeux vidéos" : "Video games",
         "Ayant une passion pour le Game Design et le Game developpment, j'ai participé à une game jam (la Ludum dare 47) et developpé un party game nommé Round Foot." : "Having a passion for game design and game development, I participated in a game jam (Ludum dare 47) and developed a party game called Round Foot.",
